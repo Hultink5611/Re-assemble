@@ -16,3 +16,7 @@ Reden: "welke schroef zat waar" is met alleen tekst niet terug te vinden.
 
 **Voorbeeld massagestoel.** Bij een nieuw project kun je 8 stappen laten invullen, overgenomen uit de
 ondertiteling van Marks video. Dat is op zicht vertaald en kan onvolledig zijn.
+
+**Live via Cloudflare (nov 2026).** Mark koos Cloudflare in plaats van GitHub Pages. De app draait als
+Cloudflare Worker met alleen vaste bestanden (map `public/`). Reden: Mark heeft daar al zijn andere sites,
+en de repo kan privé blijven.

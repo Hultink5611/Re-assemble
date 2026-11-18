@@ -1,0 +1,6 @@
+// Instelling voor Cloudflare: zet de map public/ live als website.
+{
+  "name": "re-assemble",
+  "compatibility_date": "2026-11-17",
+  "assets": { "directory": "./public" }
+}
